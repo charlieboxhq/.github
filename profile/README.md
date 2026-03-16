@@ -1,6 +1,10 @@
-# charliebox
+<p align="center">
+  <img src="https://raw.githubusercontent.com/charlieboxhq/charliebox/main/logo.png" alt="Charliebox" width="200">
+</p>
 
-**Encrypted, Git-federated personal communication platform.**
+<h1 align="center">charliebox</h1>
+
+<p align="center"><strong>Encrypted, Git-federated personal communication platform.</strong></p>
 
 Your space. Your people. Your things. No spam. No phishing. No server.
 
